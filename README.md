@@ -56,18 +56,27 @@ The data is used for both **visual analytics** and **machine learning prediction
 
 ## 📸 Dashboard Sections
 
-1. **Dashboard Page**
-   <img width="1873" height="833" alt="image" src="https://github.com/user-attachments/assets/35beeb2b-5ea1-4dfe-9baf-4830ecd85382" />
- 
-2. **Recommendations Page** – Similar content search using NLP
-   <img width="1866" height="869" alt="image" src="https://github.com/user-attachments/assets/d63df53e-f3d9-4e35-81ac-514a0a60db1a" />
-   <img width="1870" height="853" alt="image" src="https://github.com/user-attachments/assets/dcd9d526-0341-49d5-8010-a7b455e43396" />
+### 1️⃣ Dashboard Page
+<p align="center">
+  <img width="900" alt="Dashboard Page" src="https://github.com/user-attachments/assets/35beeb2b-5ea1-4dfe-9baf-4830ecd85382" />
+</p>
 
-5. **ML Models Page** – Training results and accuracy comparison  
-   <img width="1863" height="718" alt="image" src="https://github.com/user-attachments/assets/406adf22-c7ca-4c10-8b27-989556f90d4e" />
-   <img width="1860" height="698" alt="image" src="https://github.com/user-attachments/assets/48ee75cb-5704-46a0-85bc-bcd41499898d" />
-   <img width="1861" height="708" alt="image" src="https://github.com/user-attachments/assets/49ac079d-14a7-4dbc-bb3a-dc7d9d9282fa" />
+---
 
+### 2️⃣ Recommendations Page (Content-based Filtering using NLP)
+<p align="center">
+  <img width="900" alt="Recommendations Page 1" src="https://github.com/user-attachments/assets/d63df53e-f3d9-4e35-81ac-514a0a60db1a" /><br><br>
+  <img width="900" alt="Recommendations Page 2" src="https://github.com/user-attachments/assets/dcd9d526-0341-49d5-8010-a7b455e43396" />
+</p>
+
+---
+
+### 3️⃣ ML Models Page (Performance Comparison and Insights)
+<p align="center">
+  <img width="900" alt="ML Models 1" src="https://github.com/user-attachments/assets/406adf22-c7ca-4c10-8b27-989556f90d4e" /><br><br>
+  <img width="900" alt="ML Models 2" src="https://github.com/user-attachments/assets/48ee75cb-5704-46a0-85bc-bcd41499898d" /><br><br>
+  <img width="900" alt="ML Models 3" src="https://github.com/user-attachments/assets/49ac079d-14a7-4dbc-bb3a-dc7d9d9282fa" />
+</p>
 
 ---
 
@@ -90,6 +99,5 @@ This project is licensed under the **MIT License**.
 
 **Pushti Shah**  
 📧 pushtishah04@gmail.com  
-🌐 [(https://github.com/PushtiShah04)]
+🌐 [https://github.com/PushtiShah04](https://github.com/PushtiShah04)
 
-> “Data + Visualization + ML = Smarter Insights on Entertainment.”
